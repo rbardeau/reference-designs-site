@@ -1,0 +1,11 @@
+# Old Wix URLs -> home page (works on Netlify and Cloudflare Pages)
+/book-online          /#contact   301
+/book-online/*        /#contact   301
+/service-page/*       /#contact   301
+/booking-calendar/*   /#contact   301
+/blog                 /           301
+/blog/*               /           301
+/post/*               /           301
+/members              /           301
+/members/*            /           301
+/profile/*            /           301
